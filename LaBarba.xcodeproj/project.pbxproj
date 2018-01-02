@@ -13,6 +13,7 @@
 		B72FDF811FF853300052C085 /* LaBarba.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B72FDF7F1FF853300052C085 /* LaBarba.xcdatamodeld */; };
 		B72FDF831FF853300052C085 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B72FDF821FF853300052C085 /* Assets.xcassets */; };
 		B72FDF861FF853300052C085 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B72FDF841FF853300052C085 /* LaunchScreen.storyboard */; };
+		B72FDF8F1FFBB9CA0052C085 /* IntroCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72FDF8E1FFBB9CA0052C085 /* IntroCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B72FDF821FF853300052C085 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B72FDF851FF853300052C085 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B72FDF871FF853300052C085 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B72FDF8E1FFBB9CA0052C085 /* IntroCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B72FDF781FF853300052C085 /* AppDelegate.swift */,
 				B72FDF7A1FF853300052C085 /* ViewController.swift */,
 				B72FDF7C1FF853300052C085 /* Main.storyboard */,
+				B72FDF8E1FFBB9CA0052C085 /* IntroCollectionViewCell.swift */,
 				B72FDF821FF853300052C085 /* Assets.xcassets */,
 				B72FDF841FF853300052C085 /* LaunchScreen.storyboard */,
 				B72FDF871FF853300052C085 /* Info.plist */,
@@ -142,6 +145,7 @@
 				B72FDF811FF853300052C085 /* LaBarba.xcdatamodeld in Sources */,
 				B72FDF7B1FF853300052C085 /* ViewController.swift in Sources */,
 				B72FDF791FF853300052C085 /* AppDelegate.swift in Sources */,
+				B72FDF8F1FFBB9CA0052C085 /* IntroCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
